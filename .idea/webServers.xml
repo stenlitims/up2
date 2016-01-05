@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ef446e68-5533-4016-a2c5-dfd9d5587b5b" name="onehost" url="http://test.ua-textile.com">
+        <fileTransfer host="ftp.s40.freehost.com.ua" port="21" rootFolder="/test.ua-textile.com" password="dfd3dfe9dfc7dffcdfc3df9adfd2dfc9df98df9e" username="stenli_s2">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
