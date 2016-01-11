@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="ef446e68-5533-4016-a2c5-dfd9d5587b5b" name="onehost" url="http://test.ua-textile.com">
-        <fileTransfer host="ftp.s40.freehost.com.ua" port="21" rootFolder="/test.ua-textile.com" password="dfd3dfe9dfc7dffcdfc3df9adfd2dfc9df98df9e" username="stenli_s2">
+        <fileTransfer host="ftp.s40.freehost.com.ua" port="21" rootFolder="/test.ua-textile.com" password="dfebdfcedfe7df93dfc1dfeddfe6dfe0dff0dfc9" username="stenli_s2">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

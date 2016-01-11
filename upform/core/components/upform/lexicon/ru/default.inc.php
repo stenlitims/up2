@@ -1,8 +1,8 @@
 <?php
 include_once 'setting.inc.php';
 
-$_lang['upform'] = 'upform';
-$_lang['upform_menu_desc'] = 'Пример расширения для разработки.';
+$_lang['upform'] = 'Почта';
+$_lang['upform_menu_desc'] = '';
 $_lang['upform_intro_msg'] = 'Вы можете выделять сразу несколько предметов при помощи Shift или Ctrl.';
 
 $_lang['upform_items'] = 'Предметы';

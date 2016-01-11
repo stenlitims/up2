@@ -7,8 +7,8 @@ $tmp = array(
 		'file' => 'item',
 		'description' => '',
 	),
-	'tpl.upform.office' => array(
-		'file' => 'office',
+	'tpl.upform.form' => array(
+		'file' => 'form',
 		'description' => '',
 	),
 );
